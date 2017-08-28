@@ -1,0 +1,13 @@
+{
+    "name": "scrutinizer/container-tests",
+    "type": "project",
+    "require": {
+        "facebook/webdriver": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Sabine Miehlbradt",
+            "email": "sabine.miehlbradt@scrutinizer-ci.com"
+        }
+    ]
+}
